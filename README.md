@@ -15,7 +15,7 @@ Eager to apply my technical skills and a unique customer-centric perspective to 
 ## 🚀 Projects
 - **[TuxGuitar](https://github.com/tdan/tuxguitar)** - an Open Source multitrack tablature editor and player written in Java.
 - **[Furax Poker](https://github.com/tdan/furax-poker)** - an Open source poker HUD (head-up display) application for online poker.
-- **[F8 IDX Plugin for Wordpress](https://github.com/f8-idx/)** - a Wordpress plugin that allows any IDX Broker-enabled
+- **[F8 IDX Plugin for Wordpress](https://github.com/tdan/f8-idx/)** - a Wordpress plugin that allows any IDX Broker-enabled
 accounts to search, filter and display MLS data on their WordPress sites using widgets and shortcodes.
 
 ## 🏫 Upcoming Project: Podyssey 
